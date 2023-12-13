@@ -173,7 +173,7 @@
 
 - Attention을 시각화 하여, 각 Head 별 단어의 가중치를 한눈에 확인하였습니다.
 
-    ![Attention Visualization](https://example.com/attention_visualization.png)
+    ![Attention Head Image](https://raw.githubusercontent.com/HY-AI2-Projects/Transformer-SujiBaek/main/attenion_image.png)
 
     - Young, Man, stakeboard와 같은 단어는 지속적으로 높은 attention score를 가진 것을 확인할 수 있습니다.
 
